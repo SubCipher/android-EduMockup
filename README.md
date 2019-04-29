@@ -2,7 +2,7 @@
 
 Built W/Android Studio 3.4
 
-Mockup for learning/mentoring app
+Mockup and Screenshots for learning/mentoring app
 
 Requirements:
 1. Android Studio 3.4+
